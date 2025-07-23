@@ -14,7 +14,7 @@ model = load_model()
 
 @st.cache_data
 def load_data():
-    file_path = "C:/Users/avani/OneDrive/Desktop/STUDY PLAN/scaledux/TASK3/Cleaned_User_Matching_Dataset.csv"
+    file_path = "Cleaned_User_Matching_Dataset.csv"
     df = pd.read_csv(file_path)
     founders_df = df[df['user_id'].str.startswith('F')].copy()
     providers_df = df[df['user_id'].str.startswith('S')].copy()
