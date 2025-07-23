@@ -93,7 +93,7 @@ The `Cleaned_User_Matching_Dataset.csv` file comprises 100 meticulously curated 
 
 You can interact with the deployed Streamlit dashboard live on Streamlit Community Cloud:
 
-[**🚀 Explore the Live Dashboard Here\! 🚀**](https://www.google.com/search?q=YOUR_STREAMLIT_APP_URL_HERE)
+[**🚀 Explore the Live Dashboard Here\! 🚀**](https://recommedationengineforstartupmatching-kuuuyghs3sh4wtelp3lkyh.streamlit.app/)
 
 ## 🛠️ Technologies Used
 
@@ -113,7 +113,9 @@ This project is open-source and distributed under the **MIT License**. See the `
 
 For any inquiries, feedback, or potential collaborations, please don't hesitate to reach out:
 
-  * **Your Name / GitHub Profile:** [Your GitHub Username](https://github.com/avaniskrishna)
+  * **Your Name / GitHub Profile:** 
+Avani Shaji Krishna
+[Your GitHub Username](https://github.com/avaniskrishna)
   * **LinkedIn (Optional):** [Your LinkedIn Profile URL](https://linkedin.com/in/avani-s-krishna2004)
 
 -----
